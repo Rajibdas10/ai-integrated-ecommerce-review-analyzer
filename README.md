@@ -1,10 +1,3 @@
-Perfect, Rajib. Let’s get this done like a pro. Here's how we’ll proceed:
-
----
-
-## ✅ Part 1: `README.md` (Auto-generated for your assignment submission)
-
-You can place this directly under your root folder (`SCRAP_PROJECT/README.md`) before pushing:
 
 ---
 
