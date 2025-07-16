@@ -1,0 +1,40 @@
+body {
+  background-color: #121212;
+  color: #eee;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 1rem;
+}
+h1 {
+  text-align: center;
+  color: #00FFAA;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+.card {
+  background-color: #1e1e1e;
+  border-radius: 8px;
+  padding: 1rem;
+  width: 200px;
+  text-align: center;
+  box-shadow: 0 0 10px #00FFAA33;
+}
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+.card .price {
+  font-weight: bold;
+  color: #FFD700;
+}
+.card a {
+  text-decoration: none;
+  color: #00FFAA;
+  display: inline-block;
+  margin-top: 0.5rem;
+}

@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+pandas
+numpy
+nltk
+scikit-learn
+streamlit
+jinja2
+matplotlib
+selenium
+webdriver-manager
+pandas
+streamlit
+groq
+python-dotenv
